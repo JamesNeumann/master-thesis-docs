@@ -1,0 +1,7 @@
+.DS_Store
+*.png
+*.pth
+*ubyte*
+*.pyc
+
+**/lightning_logs

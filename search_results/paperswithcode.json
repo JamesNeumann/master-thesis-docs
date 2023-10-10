@@ -1,0 +1,3304 @@
+{
+  "stats": [
+    {
+      "type": "month",
+      "key": "2018-07",
+      "date": "2018-07-31",
+      "stat": {
+        "num_pwc": 703,
+        "prop_pwc": 0.24589017138859742,
+        "num_paper": 2859,
+        "num_github": 1116,
+        "frameworks_prop": {
+          "tf": 0.31152204836415365,
+          "jax": 0.001422475106685633,
+          "none": 0.4950213371266003,
+          "mxnet": 0.012802275960170697,
+          "torch": 0.0,
+          "caffe2": 0.00995732574679943,
+          "paddle": 0.00995732574679943,
+          "pytorch": 0.3357041251778094,
+          "mindspore": 0.01849217638691323
+        },
+        "frameworks_count": {
+          "tf": 219,
+          "jax": 1,
+          "none": 348,
+          "mxnet": 9,
+          "torch": 0,
+          "caffe2": 7,
+          "paddle": 7,
+          "pytorch": 236,
+          "mindspore": 13
+        },
+        "github_frameworks_prop": {
+          "tf": 0.3736559139784946,
+          "jax": 0.0017921146953405018,
+          "none": 0.31362007168458783,
+          "mxnet": 0.0062724014336917565,
+          "torch": 0.004480286738351254,
+          "caffe2": 0.015232974910394265,
+          "paddle": 0.0008960573476702509,
+          "pytorch": 0.2840501792114695,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 417,
+          "jax": 2,
+          "none": 350,
+          "mxnet": 7,
+          "torch": 5,
+          "caffe2": 17,
+          "paddle": 1,
+          "pytorch": 317,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2018-08",
+      "date": "2018-08-31",
+      "stat": {
+        "num_pwc": 630,
+        "prop_pwc": 0.26515151515151514,
+        "num_paper": 2376,
+        "num_github": 1075,
+        "frameworks_prop": {
+          "tf": 0.33015873015873015,
+          "jax": 0.0,
+          "none": 0.4507936507936508,
+          "mxnet": 0.004761904761904762,
+          "torch": 0.0,
+          "caffe2": 0.004761904761904762,
+          "paddle": 0.007936507936507936,
+          "pytorch": 0.3492063492063492,
+          "mindspore": 0.0031746031746031746
+        },
+        "frameworks_count": {
+          "tf": 208,
+          "jax": 0,
+          "none": 284,
+          "mxnet": 3,
+          "torch": 0,
+          "caffe2": 3,
+          "paddle": 5,
+          "pytorch": 220,
+          "mindspore": 2
+        },
+        "github_frameworks_prop": {
+          "tf": 0.3097674418604651,
+          "jax": 0.0,
+          "none": 0.3655813953488372,
+          "mxnet": 0.0009302325581395349,
+          "torch": 0.0037209302325581397,
+          "caffe2": 0.0037209302325581397,
+          "paddle": 0.0,
+          "pytorch": 0.31627906976744186,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 333,
+          "jax": 0,
+          "none": 393,
+          "mxnet": 1,
+          "torch": 4,
+          "caffe2": 4,
+          "paddle": 0,
+          "pytorch": 340,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2018-09",
+      "date": "2018-09-30",
+      "stat": {
+        "num_pwc": 695,
+        "prop_pwc": 0.25263540530716105,
+        "num_paper": 2751,
+        "num_github": 1043,
+        "frameworks_prop": {
+          "tf": 0.3381294964028777,
+          "jax": 0.0014388489208633094,
+          "none": 0.41294964028776976,
+          "mxnet": 0.010071942446043165,
+          "torch": 0.0,
+          "caffe2": 0.0057553956834532375,
+          "paddle": 0.010071942446043165,
+          "pytorch": 0.3899280575539568,
+          "mindspore": 0.012949640287769784
+        },
+        "frameworks_count": {
+          "tf": 235,
+          "jax": 1,
+          "none": 287,
+          "mxnet": 7,
+          "torch": 0,
+          "caffe2": 4,
+          "paddle": 7,
+          "pytorch": 271,
+          "mindspore": 9
+        },
+        "github_frameworks_prop": {
+          "tf": 0.3221476510067114,
+          "jax": 0.0019175455417066154,
+          "none": 0.37583892617449666,
+          "mxnet": 0.005752636625119847,
+          "torch": 0.0009587727708533077,
+          "caffe2": 0.009587727708533078,
+          "paddle": 0.0,
+          "pytorch": 0.2837967401725791,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 336,
+          "jax": 2,
+          "none": 392,
+          "mxnet": 6,
+          "torch": 1,
+          "caffe2": 10,
+          "paddle": 0,
+          "pytorch": 296,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2018-10",
+      "date": "2018-10-31",
+      "stat": {
+        "num_pwc": 861,
+        "prop_pwc": 0.2699905926622766,
+        "num_paper": 3189,
+        "num_github": 1372,
+        "frameworks_prop": {
+          "tf": 0.33914053426248547,
+          "jax": 0.003484320557491289,
+          "none": 0.4436701509872242,
+          "mxnet": 0.010452961672473868,
+          "torch": 0.0,
+          "caffe2": 0.0011614401858304297,
+          "paddle": 0.004645760743321719,
+          "pytorch": 0.34959349593495936,
+          "mindspore": 0.008130081300813009
+        },
+        "frameworks_count": {
+          "tf": 292,
+          "jax": 3,
+          "none": 382,
+          "mxnet": 9,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 4,
+          "pytorch": 301,
+          "mindspore": 7
+        },
+        "github_frameworks_prop": {
+          "tf": 0.3965014577259475,
+          "jax": 0.004373177842565598,
+          "none": 0.3053935860058309,
+          "mxnet": 0.002186588921282799,
+          "torch": 0.0058309037900874635,
+          "caffe2": 0.002186588921282799,
+          "paddle": 0.0,
+          "pytorch": 0.28352769679300294,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 544,
+          "jax": 6,
+          "none": 419,
+          "mxnet": 3,
+          "torch": 8,
+          "caffe2": 3,
+          "paddle": 0,
+          "pytorch": 389,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2018-11",
+      "date": "2018-11-30",
+      "stat": {
+        "num_pwc": 847,
+        "prop_pwc": 0.27104,
+        "num_paper": 3125,
+        "num_github": 1201,
+        "frameworks_prop": {
+          "tf": 0.2987012987012987,
+          "jax": 0.0011806375442739079,
+          "none": 0.4203069657615112,
+          "mxnet": 0.011806375442739079,
+          "torch": 0.0,
+          "caffe2": 0.0023612750885478157,
+          "paddle": 0.014167650531286895,
+          "pytorch": 0.41912632821723733,
+          "mindspore": 0.010625737898465172
+        },
+        "frameworks_count": {
+          "tf": 253,
+          "jax": 1,
+          "none": 356,
+          "mxnet": 10,
+          "torch": 0,
+          "caffe2": 2,
+          "paddle": 12,
+          "pytorch": 355,
+          "mindspore": 9
+        },
+        "github_frameworks_prop": {
+          "tf": 0.33805162364696084,
+          "jax": 0.0008326394671107411,
+          "none": 0.34138218151540384,
+          "mxnet": 0.002497918401332223,
+          "torch": 0.002497918401332223,
+          "caffe2": 0.00832639467110741,
+          "paddle": 0.0,
+          "pytorch": 0.3064113238967527,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 406,
+          "jax": 1,
+          "none": 410,
+          "mxnet": 3,
+          "torch": 3,
+          "caffe2": 10,
+          "paddle": 0,
+          "pytorch": 368,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2018-12",
+      "date": "2018-12-31",
+      "stat": {
+        "num_pwc": 670,
+        "prop_pwc": 0.2416155787955283,
+        "num_paper": 2773,
+        "num_github": 1063,
+        "frameworks_prop": {
+          "tf": 0.31492537313432833,
+          "jax": 0.005970149253731343,
+          "none": 0.3805970149253731,
+          "mxnet": 0.019402985074626865,
+          "torch": 0.0,
+          "caffe2": 0.005970149253731343,
+          "paddle": 0.013432835820895522,
+          "pytorch": 0.4388059701492537,
+          "mindspore": 0.01791044776119403
+        },
+        "frameworks_count": {
+          "tf": 211,
+          "jax": 4,
+          "none": 255,
+          "mxnet": 13,
+          "torch": 0,
+          "caffe2": 4,
+          "paddle": 9,
+          "pytorch": 294,
+          "mindspore": 12
+        },
+        "github_frameworks_prop": {
+          "tf": 0.3160865475070555,
+          "jax": 0.0,
+          "none": 0.3142050799623706,
+          "mxnet": 0.00940733772342427,
+          "torch": 0.0009407337723424271,
+          "caffe2": 0.0018814675446848542,
+          "paddle": 0.01317027281279398,
+          "pytorch": 0.3443085606773283,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 336,
+          "jax": 0,
+          "none": 334,
+          "mxnet": 10,
+          "torch": 1,
+          "caffe2": 2,
+          "paddle": 14,
+          "pytorch": 366,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-01",
+      "date": "2019-01-31",
+      "stat": {
+        "num_pwc": 655,
+        "prop_pwc": 0.28880070546737213,
+        "num_paper": 2268,
+        "num_github": 1298,
+        "frameworks_prop": {
+          "tf": 0.3297709923664122,
+          "jax": 0.004580152671755725,
+          "none": 0.4259541984732824,
+          "mxnet": 0.007633587786259542,
+          "torch": 0.0015267175572519084,
+          "caffe2": 0.0030534351145038168,
+          "paddle": 0.010687022900763359,
+          "pytorch": 0.4015267175572519,
+          "mindspore": 0.013740458015267175
+        },
+        "frameworks_count": {
+          "tf": 216,
+          "jax": 3,
+          "none": 279,
+          "mxnet": 5,
+          "torch": 1,
+          "caffe2": 2,
+          "paddle": 7,
+          "pytorch": 263,
+          "mindspore": 9
+        },
+        "github_frameworks_prop": {
+          "tf": 0.325115562403698,
+          "jax": 0.0030816640986132513,
+          "none": 0.3320493066255778,
+          "mxnet": 0.0061633281972265025,
+          "torch": 0.0023112480739599386,
+          "caffe2": 0.0061633281972265025,
+          "paddle": 0.0,
+          "pytorch": 0.325115562403698,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 422,
+          "jax": 4,
+          "none": 431,
+          "mxnet": 8,
+          "torch": 3,
+          "caffe2": 8,
+          "paddle": 0,
+          "pytorch": 422,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-02",
+      "date": "2019-02-28",
+      "stat": {
+        "num_pwc": 695,
+        "prop_pwc": 0.3032286212914485,
+        "num_paper": 2292,
+        "num_github": 1257,
+        "frameworks_prop": {
+          "tf": 0.33093525179856115,
+          "jax": 0.004316546762589928,
+          "none": 0.4,
+          "mxnet": 0.0057553956834532375,
+          "torch": 0.0,
+          "caffe2": 0.0014388489208633094,
+          "paddle": 0.008633093525179856,
+          "pytorch": 0.4014388489208633,
+          "mindspore": 0.011510791366906475
+        },
+        "frameworks_count": {
+          "tf": 230,
+          "jax": 3,
+          "none": 278,
+          "mxnet": 4,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 6,
+          "pytorch": 279,
+          "mindspore": 8
+        },
+        "github_frameworks_prop": {
+          "tf": 0.31105807478122516,
+          "jax": 0.0015910898965791568,
+          "none": 0.33571996817820204,
+          "mxnet": 0.016706443914081145,
+          "torch": 0.002386634844868735,
+          "caffe2": 0.0015910898965791568,
+          "paddle": 0.0,
+          "pytorch": 0.3309466984884646,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 391,
+          "jax": 2,
+          "none": 422,
+          "mxnet": 21,
+          "torch": 3,
+          "caffe2": 2,
+          "paddle": 0,
+          "pytorch": 416,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-03",
+      "date": "2019-03-31",
+      "stat": {
+        "num_pwc": 750,
+        "prop_pwc": 0.29171528588098017,
+        "num_paper": 2571,
+        "num_github": 1591,
+        "frameworks_prop": {
+          "tf": 0.284,
+          "jax": 0.004,
+          "none": 0.392,
+          "mxnet": 0.014666666666666666,
+          "torch": 0.0,
+          "caffe2": 0.0026666666666666666,
+          "paddle": 0.010666666666666666,
+          "pytorch": 0.44666666666666666,
+          "mindspore": 0.010666666666666666
+        },
+        "frameworks_count": {
+          "tf": 213,
+          "jax": 3,
+          "none": 294,
+          "mxnet": 11,
+          "torch": 0,
+          "caffe2": 2,
+          "paddle": 8,
+          "pytorch": 335,
+          "mindspore": 8
+        },
+        "github_frameworks_prop": {
+          "tf": 0.28284098051539913,
+          "jax": 0.001257071024512885,
+          "none": 0.322438717787555,
+          "mxnet": 0.011942174732872407,
+          "torch": 0.0006285355122564425,
+          "caffe2": 0.0056568196103079825,
+          "paddle": 0.0018856065367693275,
+          "pytorch": 0.37335009428032684,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 450,
+          "jax": 2,
+          "none": 513,
+          "mxnet": 19,
+          "torch": 1,
+          "caffe2": 9,
+          "paddle": 3,
+          "pytorch": 594,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-04",
+      "date": "2019-04-30",
+      "stat": {
+        "num_pwc": 1060,
+        "prop_pwc": 0.3382259093809828,
+        "num_paper": 3134,
+        "num_github": 1679,
+        "frameworks_prop": {
+          "tf": 0.27735849056603773,
+          "jax": 0.0018867924528301887,
+          "none": 0.35094339622641507,
+          "mxnet": 0.01509433962264151,
+          "torch": 0.0009433962264150943,
+          "caffe2": 0.006603773584905661,
+          "paddle": 0.016981132075471698,
+          "pytorch": 0.5169811320754717,
+          "mindspore": 0.018867924528301886
+        },
+        "frameworks_count": {
+          "tf": 294,
+          "jax": 2,
+          "none": 372,
+          "mxnet": 16,
+          "torch": 1,
+          "caffe2": 7,
+          "paddle": 18,
+          "pytorch": 548,
+          "mindspore": 20
+        },
+        "github_frameworks_prop": {
+          "tf": 0.2745681953543776,
+          "jax": 0.001786777843954735,
+          "none": 0.31447290053603333,
+          "mxnet": 0.00714711137581894,
+          "torch": 0.001786777843954735,
+          "caffe2": 0.004169148302561048,
+          "paddle": 0.0,
+          "pytorch": 0.3960690887432996,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 461,
+          "jax": 3,
+          "none": 528,
+          "mxnet": 12,
+          "torch": 3,
+          "caffe2": 7,
+          "paddle": 0,
+          "pytorch": 665,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-05",
+      "date": "2019-05-31",
+      "stat": {
+        "num_pwc": 1260,
+        "prop_pwc": 0.30390738060781475,
+        "num_paper": 4146,
+        "num_github": 1915,
+        "frameworks_prop": {
+          "tf": 0.29365079365079366,
+          "jax": 0.007142857142857143,
+          "none": 0.35714285714285715,
+          "mxnet": 0.010317460317460317,
+          "torch": 0.0,
+          "caffe2": 0.0031746031746031746,
+          "paddle": 0.014285714285714285,
+          "pytorch": 0.48333333333333334,
+          "mindspore": 0.011904761904761904
+        },
+        "frameworks_count": {
+          "tf": 370,
+          "jax": 9,
+          "none": 450,
+          "mxnet": 13,
+          "torch": 0,
+          "caffe2": 4,
+          "paddle": 18,
+          "pytorch": 609,
+          "mindspore": 15
+        },
+        "github_frameworks_prop": {
+          "tf": 0.2798955613577023,
+          "jax": 0.001566579634464752,
+          "none": 0.32114882506527415,
+          "mxnet": 0.006788511749347258,
+          "torch": 0.0010443864229765013,
+          "caffe2": 0.0020887728459530026,
+          "paddle": 0.0005221932114882506,
+          "pytorch": 0.38694516971279375,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 536,
+          "jax": 3,
+          "none": 615,
+          "mxnet": 13,
+          "torch": 2,
+          "caffe2": 4,
+          "paddle": 1,
+          "pytorch": 741,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-06",
+      "date": "2019-06-30",
+      "stat": {
+        "num_pwc": 1422,
+        "prop_pwc": 0.31225296442687744,
+        "num_paper": 4554,
+        "num_github": 1659,
+        "frameworks_prop": {
+          "tf": 0.24824191279887484,
+          "jax": 0.0028129395218002813,
+          "none": 0.37341772151898733,
+          "mxnet": 0.007735583684950774,
+          "torch": 0.0,
+          "caffe2": 0.0028129395218002813,
+          "paddle": 0.006329113924050633,
+          "pytorch": 0.46272855133614627,
+          "mindspore": 0.0035161744022503515
+        },
+        "frameworks_count": {
+          "tf": 353,
+          "jax": 4,
+          "none": 531,
+          "mxnet": 11,
+          "torch": 0,
+          "caffe2": 4,
+          "paddle": 9,
+          "pytorch": 658,
+          "mindspore": 5
+        },
+        "github_frameworks_prop": {
+          "tf": 0.2646172393007836,
+          "jax": 0.0006027727546714888,
+          "none": 0.31585292344786015,
+          "mxnet": 0.006027727546714889,
+          "torch": 0.0018083182640144665,
+          "caffe2": 0.0006027727546714888,
+          "paddle": 0.004822182037371911,
+          "pytorch": 0.405666063893912,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 439,
+          "jax": 1,
+          "none": 524,
+          "mxnet": 10,
+          "torch": 3,
+          "caffe2": 1,
+          "paddle": 8,
+          "pytorch": 673,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-07",
+      "date": "2019-07-31",
+      "stat": {
+        "num_pwc": 1018,
+        "prop_pwc": 0.28515406162464985,
+        "num_paper": 3570,
+        "num_github": 1455,
+        "frameworks_prop": {
+          "tf": 0.25147347740667975,
+          "jax": 0.004911591355599214,
+          "none": 0.3889980353634578,
+          "mxnet": 0.012770137524557957,
+          "torch": 0.0019646365422396855,
+          "caffe2": 0.0,
+          "paddle": 0.011787819253438114,
+          "pytorch": 0.4567779960707269,
+          "mindspore": 0.011787819253438114
+        },
+        "frameworks_count": {
+          "tf": 256,
+          "jax": 5,
+          "none": 396,
+          "mxnet": 13,
+          "torch": 2,
+          "caffe2": 0,
+          "paddle": 12,
+          "pytorch": 465,
+          "mindspore": 12
+        },
+        "github_frameworks_prop": {
+          "tf": 0.259106529209622,
+          "jax": 0.0013745704467353953,
+          "none": 0.30584192439862545,
+          "mxnet": 0.010996563573883162,
+          "torch": 0.0013745704467353953,
+          "caffe2": 0.0027491408934707906,
+          "paddle": 0.0,
+          "pytorch": 0.41855670103092785,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 377,
+          "jax": 2,
+          "none": 445,
+          "mxnet": 16,
+          "torch": 2,
+          "caffe2": 4,
+          "paddle": 0,
+          "pytorch": 609,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-08",
+      "date": "2019-08-31",
+      "stat": {
+        "num_pwc": 955,
+        "prop_pwc": 0.2607152607152607,
+        "num_paper": 3663,
+        "num_github": 1700,
+        "frameworks_prop": {
+          "tf": 0.24397905759162303,
+          "jax": 0.0020942408376963353,
+          "none": 0.36858638743455496,
+          "mxnet": 0.009424083769633508,
+          "torch": 0.0,
+          "caffe2": 0.0010471204188481676,
+          "paddle": 0.014659685863874346,
+          "pytorch": 0.4816753926701571,
+          "mindspore": 0.009424083769633508
+        },
+        "frameworks_count": {
+          "tf": 233,
+          "jax": 2,
+          "none": 352,
+          "mxnet": 9,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 14,
+          "pytorch": 460,
+          "mindspore": 9
+        },
+        "github_frameworks_prop": {
+          "tf": 0.24764705882352941,
+          "jax": 0.001176470588235294,
+          "none": 0.27588235294117647,
+          "mxnet": 0.005294117647058823,
+          "torch": 0.0035294117647058825,
+          "caffe2": 0.0035294117647058825,
+          "paddle": 0.0017647058823529412,
+          "pytorch": 0.4611764705882353,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 421,
+          "jax": 2,
+          "none": 469,
+          "mxnet": 9,
+          "torch": 6,
+          "caffe2": 6,
+          "paddle": 3,
+          "pytorch": 784,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-09",
+      "date": "2019-09-30",
+      "stat": {
+        "num_pwc": 1205,
+        "prop_pwc": 0.24717948717948718,
+        "num_paper": 4875,
+        "num_github": 1567,
+        "frameworks_prop": {
+          "tf": 0.23983402489626557,
+          "jax": 0.0016597510373443983,
+          "none": 0.35518672199170126,
+          "mxnet": 0.007468879668049793,
+          "torch": 0.0008298755186721991,
+          "caffe2": 0.0024896265560165973,
+          "paddle": 0.009128630705394191,
+          "pytorch": 0.4912863070539419,
+          "mindspore": 0.009128630705394191
+        },
+        "frameworks_count": {
+          "tf": 289,
+          "jax": 2,
+          "none": 428,
+          "mxnet": 9,
+          "torch": 1,
+          "caffe2": 3,
+          "paddle": 11,
+          "pytorch": 592,
+          "mindspore": 11
+        },
+        "github_frameworks_prop": {
+          "tf": 0.24186343331206125,
+          "jax": 0.0006381620931716656,
+          "none": 0.31589023611997447,
+          "mxnet": 0.005105296745373325,
+          "torch": 0.0006381620931716656,
+          "caffe2": 0.005105296745373325,
+          "paddle": 0.0006381620931716656,
+          "pytorch": 0.43012125079770264,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 379,
+          "jax": 1,
+          "none": 495,
+          "mxnet": 8,
+          "torch": 1,
+          "caffe2": 8,
+          "paddle": 1,
+          "pytorch": 674,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-10",
+      "date": "2019-10-31",
+      "stat": {
+        "num_pwc": 1245,
+        "prop_pwc": 0.2886621840945977,
+        "num_paper": 4313,
+        "num_github": 1991,
+        "frameworks_prop": {
+          "tf": 0.24738955823293174,
+          "jax": 0.00642570281124498,
+          "none": 0.35582329317269074,
+          "mxnet": 0.004016064257028112,
+          "torch": 0.0,
+          "caffe2": 0.0008032128514056225,
+          "paddle": 0.01285140562248996,
+          "pytorch": 0.4971887550200803,
+          "mindspore": 0.008835341365461847
+        },
+        "frameworks_count": {
+          "tf": 308,
+          "jax": 8,
+          "none": 443,
+          "mxnet": 5,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 16,
+          "pytorch": 619,
+          "mindspore": 11
+        },
+        "github_frameworks_prop": {
+          "tf": 0.23656454043194375,
+          "jax": 0.0015067805123053742,
+          "none": 0.3209442491210447,
+          "mxnet": 0.004018081366147665,
+          "torch": 0.0015067805123053742,
+          "caffe2": 0.0025113008538422904,
+          "paddle": 0.005022601707684581,
+          "pytorch": 0.42792566549472627,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 471,
+          "jax": 3,
+          "none": 639,
+          "mxnet": 8,
+          "torch": 3,
+          "caffe2": 5,
+          "paddle": 10,
+          "pytorch": 852,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-11",
+      "date": "2019-11-30",
+      "stat": {
+        "num_pwc": 1136,
+        "prop_pwc": 0.26308476146364057,
+        "num_paper": 4318,
+        "num_github": 1719,
+        "frameworks_prop": {
+          "tf": 0.1936619718309859,
+          "jax": 0.0017605633802816902,
+          "none": 0.335387323943662,
+          "mxnet": 0.01056338028169014,
+          "torch": 0.0017605633802816902,
+          "caffe2": 0.0,
+          "paddle": 0.013204225352112676,
+          "pytorch": 0.5651408450704225,
+          "mindspore": 0.01584507042253521
+        },
+        "frameworks_count": {
+          "tf": 220,
+          "jax": 2,
+          "none": 381,
+          "mxnet": 12,
+          "torch": 2,
+          "caffe2": 0,
+          "paddle": 15,
+          "pytorch": 642,
+          "mindspore": 18
+        },
+        "github_frameworks_prop": {
+          "tf": 0.25538103548574753,
+          "jax": 0.0005817335660267597,
+          "none": 0.29261198371146013,
+          "mxnet": 0.004072134962187318,
+          "torch": 0.0011634671320535194,
+          "caffe2": 0.0017452006980802793,
+          "paddle": 0.0,
+          "pytorch": 0.4444444444444444,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 439,
+          "jax": 1,
+          "none": 503,
+          "mxnet": 7,
+          "torch": 2,
+          "caffe2": 3,
+          "paddle": 0,
+          "pytorch": 764,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2019-12",
+      "date": "2019-12-31",
+      "stat": {
+        "num_pwc": 1150,
+        "prop_pwc": 0.3185595567867036,
+        "num_paper": 3610,
+        "num_github": 1470,
+        "frameworks_prop": {
+          "tf": 0.22,
+          "jax": 0.008695652173913044,
+          "none": 0.37130434782608696,
+          "mxnet": 0.0034782608695652175,
+          "torch": 0.0017391304347826088,
+          "caffe2": 0.0017391304347826088,
+          "paddle": 0.008695652173913044,
+          "pytorch": 0.4860869565217391,
+          "mindspore": 0.008695652173913044
+        },
+        "frameworks_count": {
+          "tf": 253,
+          "jax": 10,
+          "none": 427,
+          "mxnet": 4,
+          "torch": 2,
+          "caffe2": 2,
+          "paddle": 10,
+          "pytorch": 559,
+          "mindspore": 10
+        },
+        "github_frameworks_prop": {
+          "tf": 0.2598639455782313,
+          "jax": 0.0006802721088435374,
+          "none": 0.2795918367346939,
+          "mxnet": 0.003401360544217687,
+          "torch": 0.0027210884353741495,
+          "caffe2": 0.0020408163265306124,
+          "paddle": 0.004761904761904762,
+          "pytorch": 0.44693877551020406,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 382,
+          "jax": 1,
+          "none": 411,
+          "mxnet": 5,
+          "torch": 4,
+          "caffe2": 3,
+          "paddle": 7,
+          "pytorch": 657,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-01",
+      "date": "2020-01-31",
+      "stat": {
+        "num_pwc": 847,
+        "prop_pwc": 0.2579171741778319,
+        "num_paper": 3284,
+        "num_github": 1515,
+        "frameworks_prop": {
+          "tf": 0.24203069657615112,
+          "jax": 0.008264462809917356,
+          "none": 0.4002361275088548,
+          "mxnet": 0.0023612750885478157,
+          "torch": 0.0011806375442739079,
+          "caffe2": 0.0011806375442739079,
+          "paddle": 0.009445100354191263,
+          "pytorch": 0.42266824085005905,
+          "mindspore": 0.008264462809917356
+        },
+        "frameworks_count": {
+          "tf": 205,
+          "jax": 7,
+          "none": 339,
+          "mxnet": 2,
+          "torch": 1,
+          "caffe2": 1,
+          "paddle": 8,
+          "pytorch": 358,
+          "mindspore": 7
+        },
+        "github_frameworks_prop": {
+          "tf": 0.2316831683168317,
+          "jax": 0.008580858085808581,
+          "none": 0.3201320132013201,
+          "mxnet": 0.0033003300330033004,
+          "torch": 0.0019801980198019802,
+          "caffe2": 0.0026402640264026403,
+          "paddle": 0.0,
+          "pytorch": 0.4316831683168317,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 351,
+          "jax": 13,
+          "none": 485,
+          "mxnet": 5,
+          "torch": 3,
+          "caffe2": 4,
+          "paddle": 0,
+          "pytorch": 654,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-02",
+      "date": "2020-02-29",
+      "stat": {
+        "num_pwc": 1198,
+        "prop_pwc": 0.3163453921309744,
+        "num_paper": 3787,
+        "num_github": 1900,
+        "frameworks_prop": {
+          "tf": 0.21118530884808012,
+          "jax": 0.010851419031719533,
+          "none": 0.32303839732888145,
+          "mxnet": 0.00333889816360601,
+          "torch": 0.0008347245409015025,
+          "caffe2": 0.0,
+          "paddle": 0.005008347245409015,
+          "pytorch": 0.5475792988313857,
+          "mindspore": 0.004173622704507512
+        },
+        "frameworks_count": {
+          "tf": 253,
+          "jax": 13,
+          "none": 387,
+          "mxnet": 4,
+          "torch": 1,
+          "caffe2": 0,
+          "paddle": 6,
+          "pytorch": 656,
+          "mindspore": 5
+        },
+        "github_frameworks_prop": {
+          "tf": 0.21526315789473685,
+          "jax": 0.0036842105263157894,
+          "none": 0.29368421052631577,
+          "mxnet": 0.0036842105263157894,
+          "torch": 0.0010526315789473684,
+          "caffe2": 0.002631578947368421,
+          "paddle": 0.004736842105263158,
+          "pytorch": 0.4747368421052632,
+          "mindspore": 0.0005263157894736842
+        },
+        "github_frameworks_count": {
+          "tf": 409,
+          "jax": 7,
+          "none": 558,
+          "mxnet": 7,
+          "torch": 2,
+          "caffe2": 5,
+          "paddle": 9,
+          "pytorch": 902,
+          "mindspore": 1
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-03",
+      "date": "2020-03-31",
+      "stat": {
+        "num_pwc": 1274,
+        "prop_pwc": 0.3325502479770295,
+        "num_paper": 3831,
+        "num_github": 2230,
+        "frameworks_prop": {
+          "tf": 0.19623233908948196,
+          "jax": 0.00706436420722135,
+          "none": 0.30847723704866564,
+          "mxnet": 0.009419152276295133,
+          "torch": 0.0,
+          "caffe2": 0.0007849293563579278,
+          "paddle": 0.012558869701726845,
+          "pytorch": 0.5808477237048666,
+          "mindspore": 0.006279434850863423
+        },
+        "frameworks_count": {
+          "tf": 250,
+          "jax": 9,
+          "none": 393,
+          "mxnet": 12,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 16,
+          "pytorch": 740,
+          "mindspore": 8
+        },
+        "github_frameworks_prop": {
+          "tf": 0.2031390134529148,
+          "jax": 0.0,
+          "none": 0.27219730941704035,
+          "mxnet": 0.004932735426008968,
+          "torch": 0.0008968609865470852,
+          "caffe2": 0.0017937219730941704,
+          "paddle": 0.0026905829596412557,
+          "pytorch": 0.5143497757847534,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 453,
+          "jax": 0,
+          "none": 607,
+          "mxnet": 11,
+          "torch": 2,
+          "caffe2": 4,
+          "paddle": 6,
+          "pytorch": 1147,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-04",
+      "date": "2020-04-30",
+      "stat": {
+        "num_pwc": 1487,
+        "prop_pwc": 0.34286373068941667,
+        "num_paper": 4337,
+        "num_github": 2411,
+        "frameworks_prop": {
+          "tf": 0.21654337592468056,
+          "jax": 0.004034969737726967,
+          "none": 0.3449899125756557,
+          "mxnet": 0.00605245460659045,
+          "torch": 0.0,
+          "caffe2": 0.0006724949562878278,
+          "paddle": 0.0121049092131809,
+          "pytorch": 0.5292535305985205,
+          "mindspore": 0.008742434431741762
+        },
+        "frameworks_count": {
+          "tf": 322,
+          "jax": 6,
+          "none": 513,
+          "mxnet": 9,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 18,
+          "pytorch": 787,
+          "mindspore": 13
+        },
+        "github_frameworks_prop": {
+          "tf": 0.19162173372044794,
+          "jax": 0.002073828287017835,
+          "none": 0.3040232268768146,
+          "mxnet": 0.001244296972210701,
+          "torch": 0.0016590626296142678,
+          "caffe2": 0.00041476565740356696,
+          "paddle": 0.024056408129406886,
+          "pytorch": 0.47490667772708417,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 462,
+          "jax": 5,
+          "none": 733,
+          "mxnet": 3,
+          "torch": 4,
+          "caffe2": 1,
+          "paddle": 58,
+          "pytorch": 1145,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-05",
+      "date": "2020-05-31",
+      "stat": {
+        "num_pwc": 1457,
+        "prop_pwc": 0.2631864161849711,
+        "num_paper": 5536,
+        "num_github": 2202,
+        "frameworks_prop": {
+          "tf": 0.20315717227179136,
+          "jax": 0.004118050789293068,
+          "none": 0.4001372683596431,
+          "mxnet": 0.002745367192862045,
+          "torch": 0.0,
+          "caffe2": 0.0006863417982155113,
+          "paddle": 0.012354152367879203,
+          "pytorch": 0.4660260809883322,
+          "mindspore": 0.01098146877144818
+        },
+        "frameworks_count": {
+          "tf": 296,
+          "jax": 6,
+          "none": 583,
+          "mxnet": 4,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 18,
+          "pytorch": 679,
+          "mindspore": 16
+        },
+        "github_frameworks_prop": {
+          "tf": 0.2366030881017257,
+          "jax": 0.004087193460490463,
+          "none": 0.32107175295186197,
+          "mxnet": 0.005903723887375113,
+          "torch": 0.00045413260672116256,
+          "caffe2": 0.0009082652134423251,
+          "paddle": 0.0013623978201634877,
+          "pytorch": 0.4296094459582198,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 521,
+          "jax": 9,
+          "none": 707,
+          "mxnet": 13,
+          "torch": 1,
+          "caffe2": 2,
+          "paddle": 3,
+          "pytorch": 946,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-06",
+      "date": "2020-06-30",
+      "stat": {
+        "num_pwc": 1966,
+        "prop_pwc": 0.32372797628849004,
+        "num_paper": 6073,
+        "num_github": 2683,
+        "frameworks_prop": {
+          "tf": 0.1785350966429298,
+          "jax": 0.01017293997965412,
+          "none": 0.3229908443540183,
+          "mxnet": 0.004577822990844354,
+          "torch": 0.000508646998982706,
+          "caffe2": 0.001017293997965412,
+          "paddle": 0.009664292980671414,
+          "pytorch": 0.5564598168870803,
+          "mindspore": 0.0076297049847405905
+        },
+        "frameworks_count": {
+          "tf": 351,
+          "jax": 20,
+          "none": 635,
+          "mxnet": 9,
+          "torch": 1,
+          "caffe2": 2,
+          "paddle": 19,
+          "pytorch": 1094,
+          "mindspore": 15
+        },
+        "github_frameworks_prop": {
+          "tf": 0.20163995527394707,
+          "jax": 0.006708907938874394,
+          "none": 0.28028326500186357,
+          "mxnet": 0.0022363026462914647,
+          "torch": 0.0007454342154304882,
+          "caffe2": 0.0003727171077152441,
+          "paddle": 0.002981736861721953,
+          "pytorch": 0.5046589638464406,
+          "mindspore": 0.0003727171077152441
+        },
+        "github_frameworks_count": {
+          "tf": 541,
+          "jax": 18,
+          "none": 752,
+          "mxnet": 6,
+          "torch": 2,
+          "caffe2": 1,
+          "paddle": 8,
+          "pytorch": 1354,
+          "mindspore": 1
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-07",
+      "date": "2020-07-31",
+      "stat": {
+        "num_pwc": 1636,
+        "prop_pwc": 0.3018450184501845,
+        "num_paper": 5420,
+        "num_github": 2479,
+        "frameworks_prop": {
+          "tf": 0.17970660146699266,
+          "jax": 0.005501222493887531,
+          "none": 0.29584352078239606,
+          "mxnet": 0.0018337408312958435,
+          "torch": 0.0,
+          "caffe2": 0.0006112469437652812,
+          "paddle": 0.006112469437652812,
+          "pytorch": 0.5861858190709046,
+          "mindspore": 0.003056234718826406
+        },
+        "frameworks_count": {
+          "tf": 294,
+          "jax": 9,
+          "none": 484,
+          "mxnet": 3,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 10,
+          "pytorch": 959,
+          "mindspore": 5
+        },
+        "github_frameworks_prop": {
+          "tf": 0.21782977006857604,
+          "jax": 0.002016942315449778,
+          "none": 0.2569584509883017,
+          "mxnet": 0.004840661557079467,
+          "torch": 0.0,
+          "caffe2": 0.0004033884630899556,
+          "paddle": 0.0024203307785397336,
+          "pytorch": 0.5155304558289633,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 540,
+          "jax": 5,
+          "none": 637,
+          "mxnet": 12,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 6,
+          "pytorch": 1278,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-08",
+      "date": "2020-08-31",
+      "stat": {
+        "num_pwc": 1306,
+        "prop_pwc": 0.304357958517828,
+        "num_paper": 4291,
+        "num_github": 1978,
+        "frameworks_prop": {
+          "tf": 0.18147013782542112,
+          "jax": 0.0007656967840735069,
+          "none": 0.31393568147013784,
+          "mxnet": 0.0038284839203675345,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.005359877488514548,
+          "pytorch": 0.5497702909647779,
+          "mindspore": 0.005359877488514548
+        },
+        "frameworks_count": {
+          "tf": 237,
+          "jax": 1,
+          "none": 410,
+          "mxnet": 5,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 7,
+          "pytorch": 718,
+          "mindspore": 7
+        },
+        "github_frameworks_prop": {
+          "tf": 0.19969666329625885,
+          "jax": 0.0025278058645096056,
+          "none": 0.29322548028311424,
+          "mxnet": 0.004044489383215369,
+          "torch": 0.0010111223458038423,
+          "caffe2": 0.0005055611729019212,
+          "paddle": 0.0015166835187057635,
+          "pytorch": 0.4974721941354904,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 395,
+          "jax": 5,
+          "none": 580,
+          "mxnet": 8,
+          "torch": 2,
+          "caffe2": 1,
+          "paddle": 3,
+          "pytorch": 984,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-09",
+      "date": "2020-09-30",
+      "stat": {
+        "num_pwc": 1228,
+        "prop_pwc": 0.28584729981378026,
+        "num_paper": 4296,
+        "num_github": 2094,
+        "frameworks_prop": {
+          "tf": 0.17100977198697068,
+          "jax": 0.0016286644951140066,
+          "none": 0.3745928338762215,
+          "mxnet": 0.003257328990228013,
+          "torch": 0.0,
+          "caffe2": 0.0008143322475570033,
+          "paddle": 0.007328990228013029,
+          "pytorch": 0.498371335504886,
+          "mindspore": 0.006514657980456026
+        },
+        "frameworks_count": {
+          "tf": 210,
+          "jax": 2,
+          "none": 460,
+          "mxnet": 4,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 9,
+          "pytorch": 612,
+          "mindspore": 8
+        },
+        "github_frameworks_prop": {
+          "tf": 0.19484240687679083,
+          "jax": 0.0052531041069723014,
+          "none": 0.276981852913085,
+          "mxnet": 0.0057306590257879654,
+          "torch": 0.0014326647564469914,
+          "caffe2": 0.0009551098376313276,
+          "paddle": 0.002387774594078319,
+          "pytorch": 0.5124164278892073,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 408,
+          "jax": 11,
+          "none": 580,
+          "mxnet": 12,
+          "torch": 3,
+          "caffe2": 2,
+          "paddle": 5,
+          "pytorch": 1073,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-10",
+      "date": "2020-10-31",
+      "stat": {
+        "num_pwc": 2082,
+        "prop_pwc": 0.3350498873511426,
+        "num_paper": 6214,
+        "num_github": 2851,
+        "frameworks_prop": {
+          "tf": 0.15946205571565802,
+          "jax": 0.010086455331412104,
+          "none": 0.2953890489913545,
+          "mxnet": 0.004803073967339097,
+          "torch": 0.0,
+          "caffe2": 0.0009606147934678194,
+          "paddle": 0.006243996157540826,
+          "pytorch": 0.5821325648414986,
+          "mindspore": 0.005283381364073006
+        },
+        "frameworks_count": {
+          "tf": 332,
+          "jax": 21,
+          "none": 615,
+          "mxnet": 10,
+          "torch": 0,
+          "caffe2": 2,
+          "paddle": 13,
+          "pytorch": 1212,
+          "mindspore": 11
+        },
+        "github_frameworks_prop": {
+          "tf": 0.17362329007365837,
+          "jax": 0.003858295334970186,
+          "none": 0.27849877236057524,
+          "mxnet": 0.0028060329708874078,
+          "torch": 0.00035075412136092597,
+          "caffe2": 0.0,
+          "paddle": 0.001052262364082778,
+          "pytorch": 0.5398105927744651,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 495,
+          "jax": 11,
+          "none": 794,
+          "mxnet": 8,
+          "torch": 1,
+          "caffe2": 0,
+          "paddle": 3,
+          "pytorch": 1539,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-11",
+      "date": "2020-11-30",
+      "stat": {
+        "num_pwc": 1558,
+        "prop_pwc": 0.2845662100456621,
+        "num_paper": 5475,
+        "num_github": 1727,
+        "frameworks_prop": {
+          "tf": 0.16559691912708602,
+          "jax": 0.0038510911424903724,
+          "none": 0.3196405648267009,
+          "mxnet": 0.0019255455712451862,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.00834403080872914,
+          "pytorch": 0.5532734274711169,
+          "mindspore": 0.005776636713735558
+        },
+        "frameworks_count": {
+          "tf": 258,
+          "jax": 6,
+          "none": 498,
+          "mxnet": 3,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 13,
+          "pytorch": 862,
+          "mindspore": 9
+        },
+        "github_frameworks_prop": {
+          "tf": 0.17081644470179502,
+          "jax": 0.006369426751592357,
+          "none": 0.2651997683844818,
+          "mxnet": 0.0023161551823972205,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.009264620729588882,
+          "pytorch": 0.5460335842501448,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 295,
+          "jax": 11,
+          "none": 458,
+          "mxnet": 4,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 16,
+          "pytorch": 943,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2020-12",
+      "date": "2020-12-31",
+      "stat": {
+        "num_pwc": 1819,
+        "prop_pwc": 0.28654694391934465,
+        "num_paper": 6348,
+        "num_github": 1795,
+        "frameworks_prop": {
+          "tf": 0.15667949422759758,
+          "jax": 0.006047278724573941,
+          "none": 0.32545354590434306,
+          "mxnet": 0.002748763056624519,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.010445299615173173,
+          "pytorch": 0.5536008796041781,
+          "mindspore": 0.004947773501924134
+        },
+        "frameworks_count": {
+          "tf": 285,
+          "jax": 11,
+          "none": 592,
+          "mxnet": 5,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 19,
+          "pytorch": 1007,
+          "mindspore": 9
+        },
+        "github_frameworks_prop": {
+          "tf": 0.1565459610027855,
+          "jax": 0.005013927576601671,
+          "none": 0.27799442896935933,
+          "mxnet": 0.001671309192200557,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0022284122562674096,
+          "pytorch": 0.5565459610027855,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 281,
+          "jax": 9,
+          "none": 499,
+          "mxnet": 3,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 4,
+          "pytorch": 999,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-01",
+      "date": "2021-01-31",
+      "stat": {
+        "num_pwc": 1300,
+        "prop_pwc": 0.2368804664723032,
+        "num_paper": 5488,
+        "num_github": 1789,
+        "frameworks_prop": {
+          "tf": 0.17076923076923076,
+          "jax": 0.008461538461538461,
+          "none": 0.29384615384615387,
+          "mxnet": 0.0015384615384615385,
+          "torch": 0.0,
+          "caffe2": 0.0007692307692307692,
+          "paddle": 0.008461538461538461,
+          "pytorch": 0.5676923076923077,
+          "mindspore": 0.009230769230769232
+        },
+        "frameworks_count": {
+          "tf": 222,
+          "jax": 11,
+          "none": 382,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 11,
+          "pytorch": 738,
+          "mindspore": 12
+        },
+        "github_frameworks_prop": {
+          "tf": 0.15148127445500278,
+          "jax": 0.005589714924538848,
+          "none": 0.3035215204024595,
+          "mxnet": 0.0022358859698155395,
+          "torch": 0.0,
+          "caffe2": 0.0005589714924538849,
+          "paddle": 0.003353828954723309,
+          "pytorch": 0.5332588038010061,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 271,
+          "jax": 10,
+          "none": 543,
+          "mxnet": 4,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 6,
+          "pytorch": 954,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-02",
+      "date": "2021-02-28",
+      "stat": {
+        "num_pwc": 1330,
+        "prop_pwc": 0.2983400628084343,
+        "num_paper": 4458,
+        "num_github": 1850,
+        "frameworks_prop": {
+          "tf": 0.15263157894736842,
+          "jax": 0.015037593984962405,
+          "none": 0.3105263157894737,
+          "mxnet": 0.0030075187969924814,
+          "torch": 0.0,
+          "caffe2": 0.0007518796992481203,
+          "paddle": 0.013533834586466165,
+          "pytorch": 0.5684210526315789,
+          "mindspore": 0.002255639097744361
+        },
+        "frameworks_count": {
+          "tf": 203,
+          "jax": 20,
+          "none": 413,
+          "mxnet": 4,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 18,
+          "pytorch": 756,
+          "mindspore": 3
+        },
+        "github_frameworks_prop": {
+          "tf": 0.14,
+          "jax": 0.008108108108108109,
+          "none": 0.2637837837837838,
+          "mxnet": 0.002162162162162162,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.032432432432432434,
+          "pytorch": 0.5524324324324325,
+          "mindspore": 0.001081081081081081
+        },
+        "github_frameworks_count": {
+          "tf": 259,
+          "jax": 15,
+          "none": 488,
+          "mxnet": 4,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 60,
+          "pytorch": 1022,
+          "mindspore": 2
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-03",
+      "date": "2021-03-31",
+      "stat": {
+        "num_pwc": 1798,
+        "prop_pwc": 0.3372093023255814,
+        "num_paper": 5332,
+        "num_github": 2600,
+        "frameworks_prop": {
+          "tf": 0.14404894327030032,
+          "jax": 0.010567296996662959,
+          "none": 0.26974416017797553,
+          "mxnet": 0.0033370411568409346,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.014460511679644048,
+          "pytorch": 0.6223581757508343,
+          "mindspore": 0.011123470522803115
+        },
+        "frameworks_count": {
+          "tf": 259,
+          "jax": 19,
+          "none": 485,
+          "mxnet": 6,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 26,
+          "pytorch": 1119,
+          "mindspore": 20
+        },
+        "github_frameworks_prop": {
+          "tf": 0.12538461538461537,
+          "jax": 0.007307692307692308,
+          "none": 0.2373076923076923,
+          "mxnet": 0.0003846153846153846,
+          "torch": 0.001153846153846154,
+          "caffe2": 0.0,
+          "paddle": 0.0007692307692307692,
+          "pytorch": 0.6273076923076923,
+          "mindspore": 0.0003846153846153846
+        },
+        "github_frameworks_count": {
+          "tf": 326,
+          "jax": 19,
+          "none": 617,
+          "mxnet": 1,
+          "torch": 3,
+          "caffe2": 0,
+          "paddle": 2,
+          "pytorch": 1631,
+          "mindspore": 1
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-04",
+      "date": "2021-04-30",
+      "stat": {
+        "num_pwc": 1938,
+        "prop_pwc": 0.3508962520369365,
+        "num_paper": 5523,
+        "num_github": 2177,
+        "frameworks_prop": {
+          "tf": 0.10990712074303406,
+          "jax": 0.0046439628482972135,
+          "none": 0.29721362229102166,
+          "mxnet": 0.0010319917440660474,
+          "torch": 0.0,
+          "caffe2": 0.0005159958720330237,
+          "paddle": 0.00980392156862745,
+          "pytorch": 0.6346749226006192,
+          "mindspore": 0.012899896800825593
+        },
+        "frameworks_count": {
+          "tf": 213,
+          "jax": 9,
+          "none": 576,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 19,
+          "pytorch": 1230,
+          "mindspore": 25
+        },
+        "github_frameworks_prop": {
+          "tf": 0.13918236104731282,
+          "jax": 0.0022967386311437757,
+          "none": 0.2760679834634819,
+          "mxnet": 0.0009186954524575103,
+          "torch": 0.0,
+          "caffe2": 0.00045934772622875517,
+          "paddle": 0.0013780431786862655,
+          "pytorch": 0.5792374827744603,
+          "mindspore": 0.00045934772622875517
+        },
+        "github_frameworks_count": {
+          "tf": 303,
+          "jax": 5,
+          "none": 601,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 3,
+          "pytorch": 1261,
+          "mindspore": 1
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-05",
+      "date": "2021-05-31",
+      "stat": {
+        "num_pwc": 1587,
+        "prop_pwc": 0.32099514563106796,
+        "num_paper": 4944,
+        "num_github": 2385,
+        "frameworks_prop": {
+          "tf": 0.15122873345935728,
+          "jax": 0.008821676118462508,
+          "none": 0.28796471329552614,
+          "mxnet": 0.001260239445494644,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.01575299306868305,
+          "pytorch": 0.5935727788279773,
+          "mindspore": 0.011972274732199117
+        },
+        "frameworks_count": {
+          "tf": 240,
+          "jax": 14,
+          "none": 457,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 25,
+          "pytorch": 942,
+          "mindspore": 19
+        },
+        "github_frameworks_prop": {
+          "tf": 0.14339622641509434,
+          "jax": 0.005870020964360587,
+          "none": 0.2574423480083857,
+          "mxnet": 0.0,
+          "torch": 0.0008385744234800838,
+          "caffe2": 0.0004192872117400419,
+          "paddle": 0.0016771488469601676,
+          "pytorch": 0.589937106918239,
+          "mindspore": 0.0004192872117400419
+        },
+        "github_frameworks_count": {
+          "tf": 342,
+          "jax": 14,
+          "none": 614,
+          "mxnet": 0,
+          "torch": 2,
+          "caffe2": 1,
+          "paddle": 4,
+          "pytorch": 1407,
+          "mindspore": 1
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-06",
+      "date": "2021-06-30",
+      "stat": {
+        "num_pwc": 2489,
+        "prop_pwc": 0.3523499433748584,
+        "num_paper": 7064,
+        "num_github": 2430,
+        "frameworks_prop": {
+          "tf": 0.1124949779027722,
+          "jax": 0.01807955002008839,
+          "none": 0.25833668139815186,
+          "mxnet": 0.0024106066693451184,
+          "torch": 0.0004017677782241864,
+          "caffe2": 0.0,
+          "paddle": 0.007633587786259542,
+          "pytorch": 0.6440337484933708,
+          "mindspore": 0.007633587786259542
+        },
+        "frameworks_count": {
+          "tf": 280,
+          "jax": 45,
+          "none": 643,
+          "mxnet": 6,
+          "torch": 1,
+          "caffe2": 0,
+          "paddle": 19,
+          "pytorch": 1603,
+          "mindspore": 19
+        },
+        "github_frameworks_prop": {
+          "tf": 0.1259259259259259,
+          "jax": 0.011522633744855968,
+          "none": 0.25020576131687244,
+          "mxnet": 0.0008230452674897119,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.002880658436213992,
+          "pytorch": 0.6082304526748972,
+          "mindspore": 0.00041152263374485596
+        },
+        "github_frameworks_count": {
+          "tf": 306,
+          "jax": 28,
+          "none": 608,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 7,
+          "pytorch": 1478,
+          "mindspore": 1
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-07",
+      "date": "2021-07-31",
+      "stat": {
+        "num_pwc": 1476,
+        "prop_pwc": 0.31707841031149303,
+        "num_paper": 4655,
+        "num_github": 1993,
+        "frameworks_prop": {
+          "tf": 0.13414634146341464,
+          "jax": 0.009485094850948509,
+          "none": 0.3008130081300813,
+          "mxnet": 0.0013550135501355014,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.007452574525745257,
+          "pytorch": 0.5860433604336044,
+          "mindspore": 0.006775067750677507
+        },
+        "frameworks_count": {
+          "tf": 198,
+          "jax": 14,
+          "none": 444,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 11,
+          "pytorch": 865,
+          "mindspore": 10
+        },
+        "github_frameworks_prop": {
+          "tf": 0.12895132965378825,
+          "jax": 0.010035122930255895,
+          "none": 0.26091319618665326,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0010035122930255895,
+          "paddle": 0.0055193176116407425,
+          "pytorch": 0.5925740090316106,
+          "mindspore": 0.0010035122930255895
+        },
+        "github_frameworks_count": {
+          "tf": 257,
+          "jax": 20,
+          "none": 520,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 2,
+          "paddle": 11,
+          "pytorch": 1181,
+          "mindspore": 2
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-08",
+      "date": "2021-08-31",
+      "stat": {
+        "num_pwc": 1689,
+        "prop_pwc": 0.3178994918125353,
+        "num_paper": 5313,
+        "num_github": 2226,
+        "frameworks_prop": {
+          "tf": 0.09769094138543517,
+          "jax": 0.004736530491415038,
+          "none": 0.27235050325636473,
+          "mxnet": 0.0017761989342806395,
+          "torch": 0.0,
+          "caffe2": 0.0005920663114268798,
+          "paddle": 0.0076968620485494375,
+          "pytorch": 0.6429840142095915,
+          "mindspore": 0.008880994671403197
+        },
+        "frameworks_count": {
+          "tf": 165,
+          "jax": 8,
+          "none": 460,
+          "mxnet": 3,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 13,
+          "pytorch": 1086,
+          "mindspore": 15
+        },
+        "github_frameworks_prop": {
+          "tf": 0.11590296495956873,
+          "jax": 0.005840071877807727,
+          "none": 0.22866127583108714,
+          "mxnet": 0.0004492362982929021,
+          "torch": 0.0004492362982929021,
+          "caffe2": 0.0,
+          "paddle": 0.05660377358490566,
+          "pytorch": 0.5902964959568733,
+          "mindspore": 0.0017969451931716084
+        },
+        "github_frameworks_count": {
+          "tf": 258,
+          "jax": 13,
+          "none": 509,
+          "mxnet": 1,
+          "torch": 1,
+          "caffe2": 0,
+          "paddle": 126,
+          "pytorch": 1314,
+          "mindspore": 4
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-09",
+      "date": "2021-09-30",
+      "stat": {
+        "num_pwc": 1788,
+        "prop_pwc": 0.25293535153487057,
+        "num_paper": 7069,
+        "num_github": 2123,
+        "frameworks_prop": {
+          "tf": 0.10458612975391499,
+          "jax": 0.0039149888143176735,
+          "none": 0.29697986577181207,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0050335570469798654,
+          "pytorch": 0.6157718120805369,
+          "mindspore": 0.00727069351230425
+        },
+        "frameworks_count": {
+          "tf": 187,
+          "jax": 7,
+          "none": 531,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 9,
+          "pytorch": 1101,
+          "mindspore": 13
+        },
+        "github_frameworks_prop": {
+          "tf": 0.10880829015544041,
+          "jax": 0.006123410268487989,
+          "none": 0.2972209138012247,
+          "mxnet": 0.0009420631182289214,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.01460197833254828,
+          "pytorch": 0.5718323127649553,
+          "mindspore": 0.0004710315591144607
+        },
+        "github_frameworks_count": {
+          "tf": 231,
+          "jax": 13,
+          "none": 631,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 31,
+          "pytorch": 1214,
+          "mindspore": 1
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-10",
+      "date": "2021-10-31",
+      "stat": {
+        "num_pwc": 2012,
+        "prop_pwc": 0.32572446171280556,
+        "num_paper": 6177,
+        "num_github": 2731,
+        "frameworks_prop": {
+          "tf": 0.10487077534791253,
+          "jax": 0.008946322067594433,
+          "none": 0.2753479125248509,
+          "mxnet": 0.0019880715705765406,
+          "torch": 0.0,
+          "caffe2": 0.0004970178926441351,
+          "paddle": 0.002982107355864811,
+          "pytorch": 0.6341948310139165,
+          "mindspore": 0.005964214711729622
+        },
+        "frameworks_count": {
+          "tf": 211,
+          "jax": 18,
+          "none": 554,
+          "mxnet": 4,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 6,
+          "pytorch": 1276,
+          "mindspore": 12
+        },
+        "github_frameworks_prop": {
+          "tf": 0.10325887953130722,
+          "jax": 0.011351153423654338,
+          "none": 0.21091175393628708,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.004393994873672647,
+          "pytorch": 0.5778103258879531,
+          "mindspore": 0.09227389234712559
+        },
+        "github_frameworks_count": {
+          "tf": 282,
+          "jax": 31,
+          "none": 576,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 12,
+          "pytorch": 1578,
+          "mindspore": 252
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-11",
+      "date": "2021-11-30",
+      "stat": {
+        "num_pwc": 1776,
+        "prop_pwc": 0.26272189349112424,
+        "num_paper": 6760,
+        "num_github": 1820,
+        "frameworks_prop": {
+          "tf": 0.11148648648648649,
+          "jax": 0.013513513513513514,
+          "none": 0.26407657657657657,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.00731981981981982,
+          "pytorch": 0.625,
+          "mindspore": 0.009009009009009009
+        },
+        "frameworks_count": {
+          "tf": 198,
+          "jax": 24,
+          "none": 469,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 13,
+          "pytorch": 1110,
+          "mindspore": 16
+        },
+        "github_frameworks_prop": {
+          "tf": 0.1087912087912088,
+          "jax": 0.006593406593406593,
+          "none": 0.22362637362637364,
+          "mxnet": 0.0,
+          "torch": 0.0005494505494505495,
+          "caffe2": 0.0,
+          "paddle": 0.03241758241758242,
+          "pytorch": 0.621978021978022,
+          "mindspore": 0.006043956043956044
+        },
+        "github_frameworks_count": {
+          "tf": 198,
+          "jax": 12,
+          "none": 407,
+          "mxnet": 0,
+          "torch": 1,
+          "caffe2": 0,
+          "paddle": 59,
+          "pytorch": 1132,
+          "mindspore": 11
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2021-12",
+      "date": "2021-12-31",
+      "stat": {
+        "num_pwc": 1680,
+        "prop_pwc": 0.30962034647991155,
+        "num_paper": 5426,
+        "num_github": 1477,
+        "frameworks_prop": {
+          "tf": 0.11190476190476191,
+          "jax": 0.009523809523809525,
+          "none": 0.24345238095238095,
+          "mxnet": 0.0011904761904761906,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.005952380952380952,
+          "pytorch": 0.6541666666666667,
+          "mindspore": 0.007738095238095238
+        },
+        "frameworks_count": {
+          "tf": 188,
+          "jax": 16,
+          "none": 409,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 10,
+          "pytorch": 1099,
+          "mindspore": 13
+        },
+        "github_frameworks_prop": {
+          "tf": 0.0981719702098849,
+          "jax": 0.012186865267433988,
+          "none": 0.24847664184157076,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.012863913337846988,
+          "pytorch": 0.6276235612728503,
+          "mindspore": 0.0006770480704129993
+        },
+        "github_frameworks_count": {
+          "tf": 145,
+          "jax": 18,
+          "none": 367,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 19,
+          "pytorch": 927,
+          "mindspore": 1
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-01",
+      "date": "2022-01-31",
+      "stat": {
+        "num_pwc": 1349,
+        "prop_pwc": 0.2648213584609344,
+        "num_paper": 5094,
+        "num_github": 1416,
+        "frameworks_prop": {
+          "tf": 0.08747220163083766,
+          "jax": 0.008895478131949592,
+          "none": 0.2965159377316531,
+          "mxnet": 0.0007412898443291327,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.005930318754633061,
+          "pytorch": 0.6234247590808006,
+          "mindspore": 0.00815418828762046
+        },
+        "frameworks_count": {
+          "tf": 118,
+          "jax": 12,
+          "none": 400,
+          "mxnet": 1,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 8,
+          "pytorch": 841,
+          "mindspore": 11
+        },
+        "github_frameworks_prop": {
+          "tf": 0.09180790960451977,
+          "jax": 0.009887005649717515,
+          "none": 0.2761299435028249,
+          "mxnet": 0.0014124293785310734,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.009180790960451978,
+          "pytorch": 0.6094632768361582,
+          "mindspore": 0.00211864406779661
+        },
+        "github_frameworks_count": {
+          "tf": 130,
+          "jax": 14,
+          "none": 391,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 13,
+          "pytorch": 863,
+          "mindspore": 3
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-02",
+      "date": "2022-02-28",
+      "stat": {
+        "num_pwc": 1422,
+        "prop_pwc": 0.2996207332490518,
+        "num_paper": 4746,
+        "num_github": 1580,
+        "frameworks_prop": {
+          "tf": 0.11181434599156118,
+          "jax": 0.020393811533052038,
+          "none": 0.2770745428973277,
+          "mxnet": 0.002109704641350211,
+          "torch": 0.0007032348804500703,
+          "caffe2": 0.0,
+          "paddle": 0.005625879043600563,
+          "pytorch": 0.6132208157524613,
+          "mindspore": 0.004922644163150493
+        },
+        "frameworks_count": {
+          "tf": 159,
+          "jax": 29,
+          "none": 394,
+          "mxnet": 3,
+          "torch": 1,
+          "caffe2": 0,
+          "paddle": 8,
+          "pytorch": 872,
+          "mindspore": 7
+        },
+        "github_frameworks_prop": {
+          "tf": 0.1069620253164557,
+          "jax": 0.007594936708860759,
+          "none": 0.2689873417721519,
+          "mxnet": 0.0,
+          "torch": 0.0012658227848101266,
+          "caffe2": 0.0,
+          "paddle": 0.0037974683544303796,
+          "pytorch": 0.6107594936708861,
+          "mindspore": 0.0006329113924050633
+        },
+        "github_frameworks_count": {
+          "tf": 169,
+          "jax": 12,
+          "none": 425,
+          "mxnet": 0,
+          "torch": 2,
+          "caffe2": 0,
+          "paddle": 6,
+          "pytorch": 965,
+          "mindspore": 1
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-03",
+      "date": "2022-03-31",
+      "stat": {
+        "num_pwc": 2187,
+        "prop_pwc": 0.3621460506706408,
+        "num_paper": 6039,
+        "num_github": 2691,
+        "frameworks_prop": {
+          "tf": 0.07270233196159122,
+          "jax": 0.007773205304069501,
+          "none": 0.22039323273891176,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.00823045267489712,
+          "pytorch": 0.7155921353452218,
+          "mindspore": 0.005029721079103796
+        },
+        "frameworks_count": {
+          "tf": 159,
+          "jax": 17,
+          "none": 482,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 18,
+          "pytorch": 1565,
+          "mindspore": 11
+        },
+        "github_frameworks_prop": {
+          "tf": 0.059085841694537344,
+          "jax": 0.007432181345224823,
+          "none": 0.18691936083240432,
+          "mxnet": 0.0003716090672612412,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0018580453363062058,
+          "pytorch": 0.725752508361204,
+          "mindspore": 0.01858045336306206
+        },
+        "github_frameworks_count": {
+          "tf": 159,
+          "jax": 20,
+          "none": 503,
+          "mxnet": 1,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 5,
+          "pytorch": 1953,
+          "mindspore": 50
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-04",
+      "date": "2022-04-30",
+      "stat": {
+        "num_pwc": 1708,
+        "prop_pwc": 0.3392928088994835,
+        "num_paper": 5034,
+        "num_github": 1913,
+        "frameworks_prop": {
+          "tf": 0.08430913348946135,
+          "jax": 0.00819672131147541,
+          "none": 0.2681498829039813,
+          "mxnet": 0.0,
+          "torch": 0.000585480093676815,
+          "caffe2": 0.0,
+          "paddle": 0.004098360655737705,
+          "pytorch": 0.6639344262295082,
+          "mindspore": 0.006440281030444965
+        },
+        "frameworks_count": {
+          "tf": 144,
+          "jax": 14,
+          "none": 458,
+          "mxnet": 0,
+          "torch": 1,
+          "caffe2": 0,
+          "paddle": 7,
+          "pytorch": 1134,
+          "mindspore": 11
+        },
+        "github_frameworks_prop": {
+          "tf": 0.06429691583899634,
+          "jax": 0.00575013068478829,
+          "none": 0.25980135912179825,
+          "mxnet": 0.0005227391531625719,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.024046001045478306,
+          "pytorch": 0.6314688970203868,
+          "mindspore": 0.014113957135389441
+        },
+        "github_frameworks_count": {
+          "tf": 123,
+          "jax": 11,
+          "none": 497,
+          "mxnet": 1,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 46,
+          "pytorch": 1208,
+          "mindspore": 27
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-05",
+      "date": "2022-05-31",
+      "stat": {
+        "num_pwc": 2091,
+        "prop_pwc": 0.32443754848719936,
+        "num_paper": 6445,
+        "num_github": 1917,
+        "frameworks_prop": {
+          "tf": 0.07604017216642754,
+          "jax": 0.010999521759923482,
+          "none": 0.29076996652319465,
+          "mxnet": 0.0009564801530368245,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0052606408417025345,
+          "pytorch": 0.6384505021520803,
+          "mindspore": 0.0052606408417025345
+        },
+        "frameworks_count": {
+          "tf": 159,
+          "jax": 23,
+          "none": 608,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 11,
+          "pytorch": 1335,
+          "mindspore": 11
+        },
+        "github_frameworks_prop": {
+          "tf": 0.07250912884715702,
+          "jax": 0.0099113197704747,
+          "none": 0.2743870631194575,
+          "mxnet": 0.0020865936358894104,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.008346374543557642,
+          "pytorch": 0.6291079812206573,
+          "mindspore": 0.0036515388628064684
+        },
+        "github_frameworks_count": {
+          "tf": 139,
+          "jax": 19,
+          "none": 526,
+          "mxnet": 4,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 16,
+          "pytorch": 1206,
+          "mindspore": 7
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-06",
+      "date": "2022-06-30",
+      "stat": {
+        "num_pwc": 2046,
+        "prop_pwc": 0.3017699115044248,
+        "num_paper": 6780,
+        "num_github": 1925,
+        "frameworks_prop": {
+          "tf": 0.07624633431085044,
+          "jax": 0.010752688172043012,
+          "none": 0.3010752688172043,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.003421309872922776,
+          "pytorch": 0.6309872922776149,
+          "mindspore": 0.009286412512218964
+        },
+        "frameworks_count": {
+          "tf": 156,
+          "jax": 22,
+          "none": 616,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 7,
+          "pytorch": 1291,
+          "mindspore": 19
+        },
+        "github_frameworks_prop": {
+          "tf": 0.07012987012987013,
+          "jax": 0.01038961038961039,
+          "none": 0.23324675324675326,
+          "mxnet": 0.0005194805194805195,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.002077922077922078,
+          "pytorch": 0.6368831168831168,
+          "mindspore": 0.046753246753246755
+        },
+        "github_frameworks_count": {
+          "tf": 135,
+          "jax": 20,
+          "none": 449,
+          "mxnet": 1,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 4,
+          "pytorch": 1226,
+          "mindspore": 90
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-07",
+      "date": "2022-07-31",
+      "stat": {
+        "num_pwc": 1919,
+        "prop_pwc": 0.33206437099844266,
+        "num_paper": 5779,
+        "num_github": 1953,
+        "frameworks_prop": {
+          "tf": 0.07087024491922876,
+          "jax": 0.005732152162584679,
+          "none": 0.2303282959874935,
+          "mxnet": 0.0020844189682126106,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.005211047420531527,
+          "pytorch": 0.7008858780614904,
+          "mindspore": 0.006253256904637832
+        },
+        "frameworks_count": {
+          "tf": 136,
+          "jax": 11,
+          "none": 442,
+          "mxnet": 4,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 10,
+          "pytorch": 1345,
+          "mindspore": 12
+        },
+        "github_frameworks_prop": {
+          "tf": 0.06861239119303636,
+          "jax": 0.013312852022529442,
+          "none": 0.19815668202764977,
+          "mxnet": 0.0010240655401945725,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0030721966205837174,
+          "pytorch": 0.7127496159754224,
+          "mindspore": 0.0030721966205837174
+        },
+        "github_frameworks_count": {
+          "tf": 134,
+          "jax": 26,
+          "none": 387,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 6,
+          "pytorch": 1392,
+          "mindspore": 6
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-08",
+      "date": "2022-08-31",
+      "stat": {
+        "num_pwc": 1347,
+        "prop_pwc": 0.3015446608462055,
+        "num_paper": 4467,
+        "num_github": 1388,
+        "frameworks_prop": {
+          "tf": 0.0757238307349666,
+          "jax": 0.005196733481811433,
+          "none": 0.2709725315515961,
+          "mxnet": 0.0014847809948032665,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.002969561989606533,
+          "pytorch": 0.6540460282108389,
+          "mindspore": 0.007423904974016332
+        },
+        "frameworks_count": {
+          "tf": 102,
+          "jax": 7,
+          "none": 365,
+          "mxnet": 2,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 4,
+          "pytorch": 881,
+          "mindspore": 10
+        },
+        "github_frameworks_prop": {
+          "tf": 0.06268011527377522,
+          "jax": 0.015129682997118156,
+          "none": 0.2377521613832853,
+          "mxnet": 0.0,
+          "torch": 0.0007204610951008645,
+          "caffe2": 0.0,
+          "paddle": 0.002161383285302594,
+          "pytorch": 0.6296829971181557,
+          "mindspore": 0.05187319884726225
+        },
+        "github_frameworks_count": {
+          "tf": 87,
+          "jax": 21,
+          "none": 330,
+          "mxnet": 0,
+          "torch": 1,
+          "caffe2": 0,
+          "paddle": 3,
+          "pytorch": 874,
+          "mindspore": 72
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-09",
+      "date": "2022-09-30",
+      "stat": {
+        "num_pwc": 1506,
+        "prop_pwc": 0.29259762968719644,
+        "num_paper": 5147,
+        "num_github": 1705,
+        "frameworks_prop": {
+          "tf": 0.08300132802124834,
+          "jax": 0.011288180610889775,
+          "none": 0.2861885790172643,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0013280212483399733,
+          "pytorch": 0.6314741035856574,
+          "mindspore": 0.00398406374501992
+        },
+        "frameworks_count": {
+          "tf": 125,
+          "jax": 17,
+          "none": 431,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 2,
+          "pytorch": 951,
+          "mindspore": 6
+        },
+        "github_frameworks_prop": {
+          "tf": 0.05689149560117302,
+          "jax": 0.0093841642228739,
+          "none": 0.24164222873900293,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0,
+          "pytorch": 0.6205278592375366,
+          "mindspore": 0.07155425219941348
+        },
+        "github_frameworks_count": {
+          "tf": 97,
+          "jax": 16,
+          "none": 412,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 0,
+          "pytorch": 1058,
+          "mindspore": 122
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-10",
+      "date": "2022-10-31",
+      "stat": {
+        "num_pwc": 2680,
+        "prop_pwc": 0.34679089026915116,
+        "num_paper": 7728,
+        "num_github": 2412,
+        "frameworks_prop": {
+          "tf": 0.06305970149253731,
+          "jax": 0.010074626865671642,
+          "none": 0.2458955223880597,
+          "mxnet": 0.00037313432835820896,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.004850746268656716,
+          "pytorch": 0.691044776119403,
+          "mindspore": 0.008582089552238806
+        },
+        "frameworks_count": {
+          "tf": 169,
+          "jax": 27,
+          "none": 659,
+          "mxnet": 1,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 13,
+          "pytorch": 1852,
+          "mindspore": 23
+        },
+        "github_frameworks_prop": {
+          "tf": 0.045190713101160865,
+          "jax": 0.011608623548922056,
+          "none": 0.22470978441127695,
+          "mxnet": 0.00041459369817578774,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.00041459369817578774,
+          "pytorch": 0.7093698175787728,
+          "mindspore": 0.008291873963515755
+        },
+        "github_frameworks_count": {
+          "tf": 109,
+          "jax": 28,
+          "none": 542,
+          "mxnet": 1,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 1,
+          "pytorch": 1711,
+          "mindspore": 20
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-11",
+      "date": "2022-11-30",
+      "stat": {
+        "num_pwc": 1844,
+        "prop_pwc": 0.30022793878215565,
+        "num_paper": 6142,
+        "num_github": 1645,
+        "frameworks_prop": {
+          "tf": 0.06670281995661605,
+          "jax": 0.014642082429501085,
+          "none": 0.24078091106290672,
+          "mxnet": 0.0021691973969631237,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0032537960954446853,
+          "pytorch": 0.6860086767895879,
+          "mindspore": 0.00596529284164859
+        },
+        "frameworks_count": {
+          "tf": 123,
+          "jax": 27,
+          "none": 444,
+          "mxnet": 4,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 6,
+          "pytorch": 1265,
+          "mindspore": 11
+        },
+        "github_frameworks_prop": {
+          "tf": 0.044984802431610946,
+          "jax": 0.0121580547112462,
+          "none": 0.23404255319148937,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0024316109422492403,
+          "pytorch": 0.6571428571428571,
+          "mindspore": 0.049240121580547115
+        },
+        "github_frameworks_count": {
+          "tf": 74,
+          "jax": 20,
+          "none": 385,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 4,
+          "pytorch": 1081,
+          "mindspore": 81
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2022-12",
+      "date": "2022-12-31",
+      "stat": {
+        "num_pwc": 1312,
+        "prop_pwc": 0.27096241222635276,
+        "num_paper": 4842,
+        "num_github": 1256,
+        "frameworks_prop": {
+          "tf": 0.0663109756097561,
+          "jax": 0.010670731707317074,
+          "none": 0.2682926829268293,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0038109756097560975,
+          "pytorch": 0.6646341463414634,
+          "mindspore": 0.007621951219512195
+        },
+        "frameworks_count": {
+          "tf": 87,
+          "jax": 14,
+          "none": 352,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 5,
+          "pytorch": 872,
+          "mindspore": 10
+        },
+        "github_frameworks_prop": {
+          "tf": 0.04856687898089172,
+          "jax": 0.012738853503184714,
+          "none": 0.22054140127388536,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0015923566878980893,
+          "pytorch": 0.5262738853503185,
+          "mindspore": 0.19028662420382167
+        },
+        "github_frameworks_count": {
+          "tf": 61,
+          "jax": 16,
+          "none": 277,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 2,
+          "pytorch": 661,
+          "mindspore": 239
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2023-01",
+      "date": "2023-01-31",
+      "stat": {
+        "num_pwc": 1296,
+        "prop_pwc": 0.2679900744416873,
+        "num_paper": 4836,
+        "num_github": 1409,
+        "frameworks_prop": {
+          "tf": 0.06172839506172839,
+          "jax": 0.012345679012345678,
+          "none": 0.32098765432098764,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.004629629629629629,
+          "pytorch": 0.6180555555555556,
+          "mindspore": 0.0030864197530864196
+        },
+        "frameworks_count": {
+          "tf": 80,
+          "jax": 16,
+          "none": 416,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 6,
+          "pytorch": 801,
+          "mindspore": 4
+        },
+        "github_frameworks_prop": {
+          "tf": 0.0525195173882186,
+          "jax": 0.018452803406671398,
+          "none": 0.22143364088005676,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0007097232079489,
+          "pytorch": 0.49254790631653655,
+          "mindspore": 0.21433640880056778
+        },
+        "github_frameworks_count": {
+          "tf": 74,
+          "jax": 26,
+          "none": 312,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 1,
+          "pytorch": 694,
+          "mindspore": 302
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2023-02",
+      "date": "2023-02-28",
+      "stat": {
+        "num_pwc": 1452,
+        "prop_pwc": 0.27104722792607805,
+        "num_paper": 5357,
+        "num_github": 1558,
+        "frameworks_prop": {
+          "tf": 0.0674931129476584,
+          "jax": 0.01997245179063361,
+          "none": 0.2727272727272727,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0006887052341597796,
+          "pytorch": 0.6528925619834711,
+          "mindspore": 0.005509641873278237
+        },
+        "frameworks_count": {
+          "tf": 98,
+          "jax": 29,
+          "none": 396,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 1,
+          "pytorch": 948,
+          "mindspore": 8
+        },
+        "github_frameworks_prop": {
+          "tf": 0.04685494223363286,
+          "jax": 0.014120667522464698,
+          "none": 0.26700898587933247,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0006418485237483953,
+          "pytorch": 0.6713735558408216,
+          "mindspore": 0.0
+        },
+        "github_frameworks_count": {
+          "tf": 73,
+          "jax": 22,
+          "none": 416,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 1,
+          "pytorch": 1046,
+          "mindspore": 0
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2023-03",
+      "date": "2023-03-31",
+      "stat": {
+        "num_pwc": 1929,
+        "prop_pwc": 0.285439479135839,
+        "num_paper": 6758,
+        "num_github": 2043,
+        "frameworks_prop": {
+          "tf": 0.05391394504924832,
+          "jax": 0.01503369621565578,
+          "none": 0.2524624157594609,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.002592016588906169,
+          "pytorch": 0.6884396060134785,
+          "mindspore": 0.0036288232244686366
+        },
+        "frameworks_count": {
+          "tf": 104,
+          "jax": 29,
+          "none": 487,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 5,
+          "pytorch": 1328,
+          "mindspore": 7
+        },
+        "github_frameworks_prop": {
+          "tf": 0.034263338228095935,
+          "jax": 0.013705335291238374,
+          "none": 0.23543808125305923,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0024473813020068525,
+          "pytorch": 0.6813509544787077,
+          "mindspore": 0.032794909446891826
+        },
+        "github_frameworks_count": {
+          "tf": 70,
+          "jax": 28,
+          "none": 481,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 5,
+          "pytorch": 1392,
+          "mindspore": 67
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2023-04",
+      "date": "2023-04-30",
+      "stat": {
+        "num_pwc": 1463,
+        "prop_pwc": 0.2631768303651736,
+        "num_paper": 5559,
+        "num_github": 1325,
+        "frameworks_prop": {
+          "tf": 0.05331510594668489,
+          "jax": 0.010936431989063569,
+          "none": 0.303485987696514,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.000683526999316473,
+          "paddle": 0.005468215994531784,
+          "pytorch": 0.6390977443609023,
+          "mindspore": 0.002734107997265892
+        },
+        "frameworks_count": {
+          "tf": 78,
+          "jax": 16,
+          "none": 444,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 8,
+          "pytorch": 935,
+          "mindspore": 4
+        },
+        "github_frameworks_prop": {
+          "tf": 0.03924528301886793,
+          "jax": 0.011320754716981131,
+          "none": 0.2724528301886792,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0007547169811320754,
+          "paddle": 0.0007547169811320754,
+          "pytorch": 0.6294339622641509,
+          "mindspore": 0.046037735849056606
+        },
+        "github_frameworks_count": {
+          "tf": 52,
+          "jax": 15,
+          "none": 361,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 1,
+          "paddle": 1,
+          "pytorch": 834,
+          "mindspore": 61
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2023-05",
+      "date": "2023-05-31",
+      "stat": {
+        "num_pwc": 2380,
+        "prop_pwc": 0.2863674648056792,
+        "num_paper": 8311,
+        "num_github": 2233,
+        "frameworks_prop": {
+          "tf": 0.03361344537815126,
+          "jax": 0.025210084033613446,
+          "none": 0.3205882352941177,
+          "mxnet": 0.0004201680672268908,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0012605042016806723,
+          "pytorch": 0.6294117647058823,
+          "mindspore": 0.0012605042016806723
+        },
+        "frameworks_count": {
+          "tf": 80,
+          "jax": 60,
+          "none": 763,
+          "mxnet": 1,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 3,
+          "pytorch": 1498,
+          "mindspore": 3
+        },
+        "github_frameworks_prop": {
+          "tf": 0.02910882221227049,
+          "jax": 0.025974025974025976,
+          "none": 0.3076578593819973,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0013434841021047917,
+          "pytorch": 0.5888938647559337,
+          "mindspore": 0.047021943573667714
+        },
+        "github_frameworks_count": {
+          "tf": 65,
+          "jax": 58,
+          "none": 687,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 3,
+          "pytorch": 1315,
+          "mindspore": 105
+        }
+      }
+    },
+    {
+      "type": "month",
+      "key": "2023-06",
+      "date": "2023-06-30",
+      "stat": {
+        "num_pwc": 1846,
+        "prop_pwc": 0.2738466102952084,
+        "num_paper": 6741,
+        "num_github": 1088,
+        "frameworks_prop": {
+          "tf": 0.040628385698808236,
+          "jax": 0.025460455037919827,
+          "none": 0.33531960996749727,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.0016251354279523294,
+          "pytorch": 0.6023835319609967,
+          "mindspore": 0.0010834236186348862
+        },
+        "frameworks_count": {
+          "tf": 75,
+          "jax": 47,
+          "none": 619,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 3,
+          "pytorch": 1112,
+          "mindspore": 2
+        },
+        "github_frameworks_prop": {
+          "tf": 0.03308823529411765,
+          "jax": 0.021139705882352942,
+          "none": 0.27205882352941174,
+          "mxnet": 0.0,
+          "torch": 0.0,
+          "caffe2": 0.0,
+          "paddle": 0.001838235294117647,
+          "pytorch": 0.5183823529411765,
+          "mindspore": 0.15349264705882354
+        },
+        "github_frameworks_count": {
+          "tf": 36,
+          "jax": 23,
+          "none": 296,
+          "mxnet": 0,
+          "torch": 0,
+          "caffe2": 0,
+          "paddle": 2,
+          "pytorch": 564,
+          "mindspore": 167
+        }
+      }
+    }
+  ]
+}
